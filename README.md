@@ -1,11 +1,11 @@
 # DP-602
 
-# Implement a Warehouse in Microsoft Fabric
+# Implement a data warehouse in Microsoft Fabric
 
 
 ## About
 
-The page is meant to help support your learning journey with all things Warehouses in Microsoft Fabric and specifically, aligned with the Microsoft Applied Skill, DP-602.
+The page is meant to help support your learning journey with all things data warehouses in Microsoft Fabric and specifically, aligned with the Microsoft Applied Skill, DP-602.
 
 Don't forget to star (🌟) this repo to find it easier later.
 
