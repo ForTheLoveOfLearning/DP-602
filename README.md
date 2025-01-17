@@ -5,12 +5,11 @@
 
 ## About
 
-The page is meant to help support your learning journey with all things Lakehouses in Microsoft Fabric and specifically, aligned with the Microsoft Applied Skill, DP-601.
+The page is meant to help support your learning journey with all things Warehouses in Microsoft Fabric and specifically, aligned with the Microsoft Applied Skill, DP-602.
 
 Don't forget to star (🌟) this repo to find it easier later.
 
 ## Content
-
 
 <img src="https://fortheloveoflearning.github.io/DP-602/DP-602_Mindmap.svg">
 
@@ -43,7 +42,7 @@ Don't forget to star (🌟) this repo to find it easier later.
 
 ### Lakehouses in Microsoft Fabric
 - [Implement a lakehouse in Microsoft Fabric](https://aka.ms/DP-601)
-  
+
 ### Data Science in Microsoft Fabric
 - [Data Science Overview in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-science/data-science-overview)
 - [DP-604 Implement a data science and machine learning solution for AI in Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/implement-data-science-machine-learning-fabric/)
